@@ -13,7 +13,7 @@ The project includes:
 
 ## Repository Contents
 
-- `eda_testGPU.py`: Script for exploratory data analysis and GPU availability testing.
+- `eda_testGPU.py`: Script for exploratory data analysis and SSIM comparisions using GPU to improve dataset variability and reduce redundancy between images.
 - `gridSearchCNN.py`: Script for hyperparameter tuning using grid search.
 - `train_base_forget.py`: Script to train the baseline model demonstrating catastrophic forgetting.
 - `train_replay_models.py`: Script to train models using replay strategies.
